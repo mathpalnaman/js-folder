@@ -1,0 +1,35 @@
+h1  {
+    color: rgb(219, 162, 162);
+    font-size: 300%;
+    text-align: center;
+}
+p   {
+    border: 2px dotted green;
+    /* border-radius: 2px; */
+    padding: 10px 10px;
+    margin: 50px 200px;
+    box-shadow: 2em, red;
+    padding: 2em;
+    color: yellow;
+    font-size: 150%;
+    text-align: center;
+}
+input[type="text"]{
+    width: 40%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid wheat;
+    border-radius: 2px;
+}
+button{
+    width: 10%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid wheat;
+    border-radius: 2px;
+    background-color: white;
+    color: rgb(234, 9, 9);
+    font-size: 150%;
+}
